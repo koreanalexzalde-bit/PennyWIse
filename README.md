@@ -4,4 +4,8 @@
 MI PRIMER GATITO
 
 Se llama Drakaris es un naranjoso
->>>>>>> 7b88f9d (añadiendo un poco de texto)
+
+
+## nueva seccion
+ probando si el payaso revive a punta de Vive 100
+
