@@ -3,7 +3,8 @@
 =======
 MI PRIMER GATITO
 
-Se llama Drakaris es un naranjoso
+Se llama Drakaris es un naranjoso 
+aunque bueno es el gato de mi hermana
 
 
 ## nueva seccion
