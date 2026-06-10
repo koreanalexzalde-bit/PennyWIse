@@ -1,1 +1,1 @@
-# PennyWIse
+# PennyWise
